@@ -8,6 +8,8 @@
 * [Andrew Sullivan: I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
 * [Deep work in practice: reimagining my workflow for radically less distraction](https://alexdenning.com/deep-work-in-practice/)
+* [What Was Life Like Before Smartphones?](https://theawl.com/life-before-smartphones-66ff03a094a8#.dqd8dny19)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
+* [Why the Drudge Report is one of the best designed sites on the web](https://signalvnoise.com/posts/1407-why-the-drudge-report-is-one-of-the-best-designed-sites-on-the-web)
