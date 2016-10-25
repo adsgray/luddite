@@ -3,12 +3,14 @@
 * [It’s OK to Be a Luddite](http://www.slate.com/articles/technology/bitwise/2015/09/luddism_today_there_s_an_important_place_for_it_really.single.html)
 * [Fran Lebowitz Doesn’t Have a Cell Phone, But Knows Everything That Happens on Social Media Anyway](http://www.wmagazine.com/story/fran-lebowitz-doesnt-have-a-cell-phone-but-knows-everything-that-happens-on-social-media-anyway)
 * [Andrew Sullivan: I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
+* [Read This Story Without Distraction (Can You?)](http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?_r=0)
 
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
 * [Deep work in practice: reimagining my workflow for radically less distraction](https://alexdenning.com/deep-work-in-practice/)
 * [What Was Life Like Before Smartphones?](https://theawl.com/life-before-smartphones-66ff03a094a8#.dqd8dny19)
+* [How I do my computing -- Richard Stallman](https://stallman.org/stallman-computing.html)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
