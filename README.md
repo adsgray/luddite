@@ -4,6 +4,7 @@
 * [Fran Lebowitz Doesn’t Have a Cell Phone, But Knows Everything That Happens on Social Media Anyway](http://www.wmagazine.com/story/fran-lebowitz-doesnt-have-a-cell-phone-but-knows-everything-that-happens-on-social-media-anyway)
 * [Andrew Sullivan: I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
 * [Read This Story Without Distraction (Can You?)](http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?_r=0)
+* [You’re All Alone, Like Everyone Else](https://theawl.com/are-you-addicted-to-the-internet-c0a92673bff8#.wu9v3ja72)
 
 
 # Tech
