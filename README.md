@@ -5,6 +5,7 @@
 * [Andrew Sullivan: I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
 * [Read This Story Without Distraction (Can You?)](http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?_r=0)
 * [You’re All Alone, Like Everyone Else](https://theawl.com/are-you-addicted-to-the-internet-c0a92673bff8#.wu9v3ja72)
+* [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 
 
 # Tech
@@ -12,6 +13,7 @@
 * [Deep work in practice: reimagining my workflow for radically less distraction](https://alexdenning.com/deep-work-in-practice/)
 * [What Was Life Like Before Smartphones?](https://theawl.com/life-before-smartphones-66ff03a094a8#.dqd8dny19)
 * [How I do my computing -- Richard Stallman](https://stallman.org/stallman-computing.html)
+* [Track Changes podcast: Put Your Phone Down](https://soundcloud.com/postlighttrackchanges/put-your-phone-down)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
