@@ -19,3 +19,6 @@
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
 * [Why the Drudge Report is one of the best designed sites on the web](https://signalvnoise.com/posts/1407-why-the-drudge-report-is-one-of-the-best-designed-sites-on-the-web)
+
+# Twitter Accounts
+* [Internet of Shit](https://twitter.com/internetofshit)
