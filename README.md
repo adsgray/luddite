@@ -6,6 +6,7 @@
 * [Read This Story Without Distraction (Can You?)](http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?_r=0)
 * [You’re All Alone, Like Everyone Else](https://theawl.com/are-you-addicted-to-the-internet-c0a92673bff8#.wu9v3ja72)
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
+* [Why I Regret Making My House a Smart-House](http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house)
 
 
 # Tech
