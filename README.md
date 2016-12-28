@@ -8,6 +8,9 @@
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Why I Regret Making My House a Smart-House](http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house)
 
+# The Myth of Progress
+* [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
+* [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
