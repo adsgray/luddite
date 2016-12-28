@@ -11,6 +11,7 @@
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+* [What's worked in computer science](http://danluu.com/butler-lampson-1999/)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
