@@ -7,6 +7,7 @@
 * [You’re All Alone, Like Everyone Else](https://theawl.com/are-you-addicted-to-the-internet-c0a92673bff8#.wu9v3ja72)
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Why I Regret Making My House a Smart-House](http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house)
+* [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
