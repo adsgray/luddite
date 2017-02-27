@@ -28,3 +28,4 @@
 
 # Twitter Accounts
 * [Internet of Shit](https://twitter.com/internetofshit)
+* [Pessimists Archive](https://twitter.com/PessimistsArc) This one is funny because they say _Highlighting technophobia, alarmism, protectionism and puritanism of the past. The best antidote to fear of the new is looking back at fear of the old._ but a lot of what they tweet is objectively true (eg. old "hysterical" articles that claim that cars are bad for society).
