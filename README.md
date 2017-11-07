@@ -21,6 +21,7 @@
 * [What Was Life Like Before Smartphones?](https://theawl.com/life-before-smartphones-66ff03a094a8#.dqd8dny19)
 * [How I do my computing -- Richard Stallman](https://stallman.org/stallman-computing.html)
 * [Track Changes podcast: Put Your Phone Down](https://soundcloud.com/postlighttrackchanges/put-your-phone-down)
+* ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
