@@ -9,6 +9,7 @@
 * [Why I Regret Making My House a Smart-House](http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house)
 * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 * [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
+* [I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
