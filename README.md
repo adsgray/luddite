@@ -27,6 +27,7 @@
 * [Firms warned on technology 'distractions'](http://www.bbc.com/news/technology-42945863)
 * [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
 * [Take control of your phone.](http://humanetech.com/take-control/)
+* [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
