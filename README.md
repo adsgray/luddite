@@ -16,6 +16,7 @@
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
 * [What's worked in computer science](http://danluu.com/butler-lampson-1999/)
 * [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=nextdraft&utm_medium=email)
+* [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
