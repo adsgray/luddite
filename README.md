@@ -12,6 +12,9 @@
 * [I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 * "Get news. Not too quickly. Avoid social." [For Two Months, I Got My News From Print Newspapers. Here’s What I Learned.](https://www.nytimes.com/2018/03/07/technology/two-months-news-newspapers.html)
 
+# Surveillance Capitalism
+* [Facebook Really Is Spying on You, Just Not Through Your Phone's Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644)
+
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
