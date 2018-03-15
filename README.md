@@ -35,6 +35,8 @@
 * [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
 * [How Tiny Red Dots Took Over Your Life](https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html)
 * [Children struggle to hold pencils due to too much tech, doctors say](https://www.theguardian.com/society/2018/feb/25/children-struggle-to-hold-pencils-due-to-too-much-tech-doctors-say)
+* [Meet the tech evangelist who now fears for our mental health](https://www.theguardian.com/technology/2018/mar/15/meet-the-tech-evangelist-who-now-fears-for-our-mental-health)
+* [Bali switches off internet services for 24 hours for New Year 'quiet reflection'](https://www.theguardian.com/world/2018/mar/15/bali-switches-off-internet-services-24-hours-new-year)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
