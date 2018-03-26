@@ -14,6 +14,7 @@
 
 # Surveillance Capitalism
 * [Facebook Really Is Spying on You, Just Not Through Your Phone's Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644)
+* [#deletefacebook](https://techcrunch.com/2018/03/19/deletefacebook/)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
@@ -37,6 +38,7 @@
 * [Children struggle to hold pencils due to too much tech, doctors say](https://www.theguardian.com/society/2018/feb/25/children-struggle-to-hold-pencils-due-to-too-much-tech-doctors-say)
 * [Meet the tech evangelist who now fears for our mental health](https://www.theguardian.com/technology/2018/mar/15/meet-the-tech-evangelist-who-now-fears-for-our-mental-health)
 * [Bali switches off internet services for 24 hours for New Year 'quiet reflection'](https://www.theguardian.com/world/2018/mar/15/bali-switches-off-internet-services-24-hours-new-year)
+* [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
