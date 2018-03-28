@@ -15,6 +15,7 @@
 # Surveillance Capitalism
 * [Facebook Really Is Spying on You, Just Not Through Your Phone's Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644)
 * [#deletefacebook](https://techcrunch.com/2018/03/19/deletefacebook/)
+* [Facebook under fire, but it’s just part of ‘surveillance economy’](https://www.csmonitor.com/Business/2018/0328/Facebook-under-fire-but-it-s-just-part-of-surveillance-economy)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
