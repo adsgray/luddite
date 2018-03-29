@@ -5,12 +5,17 @@
 * [Andrew Sullivan: I Used to Be a Human Being](http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html)
 * [Read This Story Without Distraction (Can You?)](http://www.nytimes.com/2016/05/01/fashion/monotasking-drop-everything-and-read-this-story.html?_r=0)
 * [You’re All Alone, Like Everyone Else](https://theawl.com/are-you-addicted-to-the-internet-c0a92673bff8#.wu9v3ja72)
-* [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Why I Regret Making My House a Smart-House](http://www.finehomebuilding.com/2013/08/14/why-i-regret-making-my-house-a-smart-house)
 * [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 * [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
 * [I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 * "Get news. Not too quickly. Avoid social." [For Two Months, I Got My News From Print Newspapers. Here’s What I Learned.](https://www.nytimes.com/2018/03/07/technology/two-months-news-newspapers.html)
+
+# Social Media
+* [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
+* [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
+* [Can Social Media Be Saved?](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html)
+* [Facebook Isn’t Just Violating Our Privacy](https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html)
 
 # Surveillance Capitalism
 * [Facebook Really Is Spying on You, Just Not Through Your Phone's Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644)
@@ -32,7 +37,6 @@
 * [Track Changes podcast: Put Your Phone Down](https://soundcloud.com/postlighttrackchanges/put-your-phone-down)
 * ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
 * [Firms warned on technology 'distractions'](http://www.bbc.com/news/technology-42945863)
-* [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
 * [Take control of your phone.](http://humanetech.com/take-control/)
 * [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
 * [How Tiny Red Dots Took Over Your Life](https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html)
@@ -44,6 +48,9 @@
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
 * [Why the Drudge Report is one of the best designed sites on the web](https://signalvnoise.com/posts/1407-why-the-drudge-report-is-one-of-the-best-designed-sites-on-the-web)
+
+# Slow Food
+* [The Science About Eating Out That Will Scare You Into Cooking Your Own Dinners](https://www.motherjones.com/environment/2018/03/the-science-about-eating-out-that-will-scare-you-into-cooking-your-own-dinners/)
 
 # Twitter Accounts
 * [Internet of Shit](https://twitter.com/internetofshit)
