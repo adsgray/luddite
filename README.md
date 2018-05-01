@@ -46,6 +46,7 @@
 * [Meet the tech evangelist who now fears for our mental health](https://www.theguardian.com/technology/2018/mar/15/meet-the-tech-evangelist-who-now-fears-for-our-mental-health)
 * [Bali switches off internet services for 24 hours for New Year 'quiet reflection'](https://www.theguardian.com/world/2018/mar/15/bali-switches-off-internet-services-24-hours-new-year)
 * [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
+* [How a “tech light” day helps my tech company be more productive](https://work.qz.com/1266971/how-a-tech-light-day-helps-my-tech-company-be-more-productive/) ugh, now NOT using tech is a productivity tip?
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
