@@ -11,6 +11,7 @@
 * [I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 * "Get news. Not too quickly. Avoid social." [For Two Months, I Got My News From Print Newspapers. Here’s What I Learned.](https://www.nytimes.com/2018/03/07/technology/two-months-news-newspapers.html)
 * [How to Be Happy When You're Skeptical of Everything](https://www.gq.com/story/oliver-burkeman-life-changing-interview)
+* [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 
 # Social Media
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
