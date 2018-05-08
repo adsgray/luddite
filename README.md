@@ -11,13 +11,13 @@
 * [I have forgotten how to read](https://www.theglobeandmail.com/opinion/i-have-forgotten-how-toread/article37921379/)
 * "Get news. Not too quickly. Avoid social." [For Two Months, I Got My News From Print Newspapers. Here’s What I Learned.](https://www.nytimes.com/2018/03/07/technology/two-months-news-newspapers.html)
 * [How to Be Happy When You're Skeptical of Everything](https://www.gq.com/story/oliver-burkeman-life-changing-interview)
-* [Why time management is ruining our lives](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)
 
 # Social Media
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
 * [Can Social Media Be Saved?](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html)
 * [Facebook Isn’t Just Violating Our Privacy](https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html)
+
 
 # Surveillance Capitalism
 * [Facebook Really Is Spying on You, Just Not Through Your Phone's Mic](https://www.wsj.com/articles/facebook-really-is-spying-on-you-just-not-through-your-phones-mic-1520448644)
@@ -42,7 +42,6 @@
 * ['Our minds can be hijacked': the tech insiders who fear a smartphone dystopia](https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia)
 * [Firms warned on technology 'distractions'](http://www.bbc.com/news/technology-42945863)
 * [Take control of your phone.](http://humanetech.com/take-control/)
-* [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
 * [How Tiny Red Dots Took Over Your Life](https://www.nytimes.com/2018/02/27/magazine/red-dots-badge-phones-notification.html)
 * [Children struggle to hold pencils due to too much tech, doctors say](https://www.theguardian.com/society/2018/feb/25/children-struggle-to-hold-pencils-due-to-too-much-tech-doctors-say)
 * [Meet the tech evangelist who now fears for our mental health](https://www.theguardian.com/technology/2018/mar/15/meet-the-tech-evangelist-who-now-fears-for-our-mental-health)
@@ -50,6 +49,8 @@
 * [Having Your Smartphone Nearby Takes a Toll on Your Thinking](https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking)
 * [How a “tech light” day helps my tech company be more productive](https://work.qz.com/1266971/how-a-tech-light-day-helps-my-tech-company-be-more-productive/) ugh, now NOT using tech is a productivity tip?
 * [Why Silicon Valley can’t fix itself](https://www.theguardian.com/news/2018/may/03/why-silicon-valley-cant-fix-itself-tech-humanism) Humane technology.
+* [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
+* [Social media copies gambling methods 'to create psychological cravings'](https://www.theguardian.com/technology/2018/may/08/social-media-copies-gambling-methods-to-create-psychological-cravings)
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
