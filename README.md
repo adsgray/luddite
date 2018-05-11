@@ -25,6 +25,7 @@
 * [Facebook under fire, but it’s just part of ‘surveillance economy’](https://www.csmonitor.com/Business/2018/0328/Facebook-under-fire-but-it-s-just-part-of-surveillance-economy)
 * [What Is Facebook's Policy On Advertising In Relation To The 8th Amendment?](http://www.hotpress.com/Facebook/politics/themessage/What-Is-Facebooks-Policy-On-Advertising-In-Relation-To-The-8th-Amendment/21862621.html)
 * [A radical proposal to keep your personal data safe](https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance)
+* [Make masses carry their mobes, suggests wig in not-at-all-creepy speech](https://www.theregister.co.uk/2018/05/11/top_judge_mulls_compulsory_mobile_phone_carrying/) just straight up surveillance
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
