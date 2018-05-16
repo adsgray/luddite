@@ -33,6 +33,7 @@
 * [What's worked in computer science](http://danluu.com/butler-lampson-1999/)
 * [Why Nothing Works Anymore](https://www.theatlantic.com/technology/archive/2017/02/the-singularity-in-the-toilet-stall/517551/?utm_source=nextdraft&utm_medium=email)
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
+* [The internet’s problems haven’t changed in 22 years](https://www.theverge.com/2018/5/16/17360414/internet-data-collection-privacy-backdoor-keys-wsj-1996-article)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
