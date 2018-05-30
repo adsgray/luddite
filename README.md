@@ -17,6 +17,7 @@
 * [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
 * [Can Social Media Be Saved?](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html)
 * [Facebook Isn’t Just Violating Our Privacy](https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html)
+* [Ten Arguments for Deleting Your Social Media Accounts Right Now by Jaron Lanier – review](https://www.theguardian.com/books/2018/may/30/ten-arguments-deleting-your-social-media-accounts-right-now-jaron-lanier)
 
 
 # Surveillance Capitalism
