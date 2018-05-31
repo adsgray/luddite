@@ -56,6 +56,8 @@
 * [Kottke: We’re all addicted to the smartphone slot machines in our pockets](https://kottke.org/18/02/were-all-addicted-to-the-smartphone-slot-machines-in-our-pockets)
 * [Social media copies gambling methods 'to create psychological cravings'](https://www.theguardian.com/technology/2018/may/08/social-media-copies-gambling-methods-to-create-psychological-cravings)
 * [Google's New Voice Bot Sounds, Um, Maybe Too Real](https://www.npr.org/sections/thetwo-way/2018/05/09/609820627/googles-new-voice-bot-sounds-um-maybe-too-real)
+* [Google Assistant fired a gun: We need to talk](https://www.engadget.com/2018/05/30/google-assistant-fired-a-gun-we-need-to-talk/)
+
 
 # Design
 * [How the Web Became Unreadable](https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6#.5agoi8wd2)
