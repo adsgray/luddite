@@ -28,6 +28,7 @@
 * [A radical proposal to keep your personal data safe](https://www.theguardian.com/commentisfree/2018/apr/03/facebook-abusing-data-law-privacy-big-tech-surveillance)
 * [Make masses carry their mobes, suggests wig in not-at-all-creepy speech](https://www.theregister.co.uk/2018/05/11/top_judge_mulls_compulsory_mobile_phone_carrying/) just straight up surveillance
 * [LocationSmart API Vulnerability](https://www.robertxiao.ca/hacking/locationsmart/) wow who could've known it'd be a bad idea to have a big database of everyone's location??
+* [A top tech investor says cameras watching your every move is inevitable in the US: 'It's not my fault what the future holds so if it's scary I apologize'](http://www.businessinsider.com/creepy-social-credit-system-in-the-us-2018-6)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
