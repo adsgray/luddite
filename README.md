@@ -18,6 +18,7 @@
 * [Can Social Media Be Saved?](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html)
 * [Facebook Isn’t Just Violating Our Privacy](https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html)
 * [Ten Arguments for Deleting Your Social Media Accounts Right Now by Jaron Lanier – review](https://www.theguardian.com/books/2018/may/30/ten-arguments-deleting-your-social-media-accounts-right-now-jaron-lanier)
+* [How heavy use of social media is linked to mental illness](https://www.economist.com/graphic-detail/2018/05/18/how-heavy-use-of-social-media-is-linked-to-mental-illness)
 
 
 # Surveillance Capitalism
