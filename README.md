@@ -60,6 +60,7 @@
 * [Google's New Voice Bot Sounds, Um, Maybe Too Real](https://www.npr.org/sections/thetwo-way/2018/05/09/609820627/googles-new-voice-bot-sounds-um-maybe-too-real)
 * [Google Assistant fired a gun: We need to talk](https://www.engadget.com/2018/05/30/google-assistant-fired-a-gun-we-need-to-talk/)
 * [Technology is driving us to distraction](https://www.theguardian.com/commentisfree/2018/may/27/world-distraction-demands-new-focus)
+* [Driving? Your Phone Is A Distraction Even If You Aren’t Looking At It](https://fivethirtyeight.com/features/driving-your-phone-is-a-distraction-even-if-you-arent-looking-at-it/)
 
 
 # Design
