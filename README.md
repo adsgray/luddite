@@ -39,6 +39,7 @@
 * [Programmers: Stop Calling Yourselves Engineers](https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/)
 * [The internet’s problems haven’t changed in 22 years](https://www.theverge.com/2018/5/16/17360414/internet-data-collection-privacy-backdoor-keys-wsj-1996-article)
 * [The Hidden Cost of Touchscreens](https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf)
+* [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
