@@ -64,6 +64,7 @@
 * [Google Assistant fired a gun: We need to talk](https://www.engadget.com/2018/05/30/google-assistant-fired-a-gun-we-need-to-talk/)
 * [Technology is driving us to distraction](https://www.theguardian.com/commentisfree/2018/may/27/world-distraction-demands-new-focus)
 * [Driving? Your Phone Is A Distraction Even If You Aren’t Looking At It](https://fivethirtyeight.com/features/driving-your-phone-is-a-distraction-even-if-you-arent-looking-at-it/)
+* [Five Things We Need to Know About Technological Change by Neil Postman](http://web.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf) 1998
 
 
 # Design
