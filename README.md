@@ -12,6 +12,8 @@
 * "Get news. Not too quickly. Avoid social." [For Two Months, I Got My News From Print Newspapers. Here’s What I Learned.](https://www.nytimes.com/2018/03/07/technology/two-months-news-newspapers.html)
 * [How to Be Happy When You're Skeptical of Everything](https://www.gq.com/story/oliver-burkeman-life-changing-interview)
 * [Mumford’s ‘Megamachine’ After the Digital Turn](https://www.boundary2.org/2018/07/loeb/)
+* [Who Scores Games by Hand Anymore](https://www.nytimes.com/2013/07/12/sports/baseball/who-scores-games-by-hand-anymore.html)
+* [Cal Newport's Blog](http://calnewport.com/blog/)
 
 # Social Media
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
@@ -20,6 +22,8 @@
 * [Facebook Isn’t Just Violating Our Privacy](https://www.nytimes.com/2018/03/29/opinion/facebook-privacy-zuckerberg-society.html)
 * [Ten Arguments for Deleting Your Social Media Accounts Right Now by Jaron Lanier – review](https://www.theguardian.com/books/2018/may/30/ten-arguments-deleting-your-social-media-accounts-right-now-jaron-lanier)
 * [How heavy use of social media is linked to mental illness](https://www.economist.com/graphic-detail/2018/05/18/how-heavy-use-of-social-media-is-linked-to-mental-illness)
+* [How Time Saving Technology Destroys Our Productivity](http://www.spectator.co.uk/2017/01/how-time-saving-technology-destroys-our-productivity/)
+* [Why You Should Quit Social Media](https://www.ted.com/talks/cal_newport_why_you_should_quit_social_media)
 
 
 # Surveillance Capitalism
@@ -31,6 +35,7 @@
 * [Make masses carry their mobes, suggests wig in not-at-all-creepy speech](https://www.theregister.co.uk/2018/05/11/top_judge_mulls_compulsory_mobile_phone_carrying/) just straight up surveillance
 * [LocationSmart API Vulnerability](https://www.robertxiao.ca/hacking/locationsmart/) wow who could've known it'd be a bad idea to have a big database of everyone's location??
 * [A top tech investor says cameras watching your every move is inevitable in the US: 'It's not my fault what the future holds so if it's scary I apologize'](http://www.businessinsider.com/creepy-social-credit-system-in-the-us-2018-6)
+* [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
@@ -41,6 +46,7 @@
 * [The internet’s problems haven’t changed in 22 years](https://www.theverge.com/2018/5/16/17360414/internet-data-collection-privacy-backdoor-keys-wsj-1996-article)
 * [The Hidden Cost of Touchscreens](https://medium.com/@caseorganic/why-do-we-keep-building-cars-with-touchscreens-alt-the-hidden-lives-of-touchscreens-55faf92799bf)
 * [The Bullshit Web](https://pxlnv.com/blog/bullshit-web/)
+* [The blitzscaling illusion](https://aeon.co/essays/what-silicon-valley-wont-admit-about-technology-and-progress)
 
 # Tech
 * [The Binge Breaker](http://www.theatlantic.com/magazine/archive/2016/11/the-binge-breaker/501122/)
