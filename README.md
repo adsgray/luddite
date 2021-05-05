@@ -15,6 +15,9 @@
 * [Who Scores Games by Hand Anymore](https://www.nytimes.com/2013/07/12/sports/baseball/who-scores-games-by-hand-anymore.html)
 * [Cal Newport's Blog](http://calnewport.com/blog/)
 
+# Cryptocurrency
+* [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
+* 
 # Social Media
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
