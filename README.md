@@ -14,10 +14,12 @@
 * [Mumford’s ‘Megamachine’ After the Digital Turn](https://www.boundary2.org/2018/07/loeb/)
 * [Who Scores Games by Hand Anymore](https://www.nytimes.com/2013/07/12/sports/baseball/who-scores-games-by-hand-anymore.html)
 * [Cal Newport's Blog](http://calnewport.com/blog/)
+* [“Why don’t you go live in a cave?” – when technophiles cry troglodyte](https://librarianshipwreck.wordpress.com/2018/05/18/why-dont-you-go-live-in-a-cave-when-technophiles-cry-troglodyte/)
 
 # Cryptocurrency
 * [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
-* 
+
+
 # Social Media
 * [Quit Social Media. Your Career May Depend on It.](http://www.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html)
 * [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)
@@ -39,6 +41,12 @@
 * [LocationSmart API Vulnerability](https://www.robertxiao.ca/hacking/locationsmart/) wow who could've known it'd be a bad idea to have a big database of everyone's location??
 * [A top tech investor says cameras watching your every move is inevitable in the US: 'It's not my fault what the future holds so if it's scary I apologize'](http://www.businessinsider.com/creepy-social-credit-system-in-the-us-2018-6)
 * [We're building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads)
+* [Cutting Google out of your life](https://github.com/tycrek/degoogle)
+* [Technology for the People](https://readpassage.com/p/technology-for-the-people/)
+* [Defang me](https://defangme.com/)
+
+
+
 
 # The Myth of Progress
 * [Systems Past: the only 8 software innovations we actually use](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
