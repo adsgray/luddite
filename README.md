@@ -15,6 +15,8 @@
 * [Who Scores Games by Hand Anymore](https://www.nytimes.com/2013/07/12/sports/baseball/who-scores-games-by-hand-anymore.html)
 * [Cal Newport's Blog](http://calnewport.com/blog/)
 * [“Why don’t you go live in a cave?” – when technophiles cry troglodyte](https://librarianshipwreck.wordpress.com/2018/05/18/why-dont-you-go-live-in-a-cave-when-technophiles-cry-troglodyte/)
+* [Lorde’s Work Here Is Done. Now, She Vibes.](https://www.nytimes.com/2021/08/12/arts/music/lorde-solar-power.html) Her phone is grayscale and she's locked out of her social media accounts.
+* [The Questions Concerning Technology](https://theconvivialsociety.substack.com/p/the-questions-concerning-technology)
 
 # Cryptocurrency
 * [Cryptocurrency is an abject disaster](https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html)
